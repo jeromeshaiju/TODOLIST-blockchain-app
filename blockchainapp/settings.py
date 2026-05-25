@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY_django')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['todolist-blockchain-app.onrender.com', 'localhost']
+ALLOWED_HOSTS = ['todolist-blockchain-app.onrender.com', 'localhost','tdlbca-3swbn7k4.b4a.run']
 
 # Application definition
 
